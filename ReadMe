@@ -1,0 +1,2 @@
+Group members: Usman Khan, Abdul Saboor
+How to Run: To Run java program, enter command line arguments without aliases first argument is Mount and second is Port. E.g java FSServer /home/DC/ass2/1 4545
